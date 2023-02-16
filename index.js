@@ -54,5 +54,3 @@ while (b <= 50) {
     console.log(text2)
     b++
 }
-
-//Oppgave 8
